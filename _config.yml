@@ -1,5 +1,5 @@
 title: Doit Labs
-description: Learn, Design, Build, Test, &#128257;
+description: loop { learn, design, build, test }
 plugins:
   - jekyll-relative-links
 relative_links:
