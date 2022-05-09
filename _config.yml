@@ -1,3 +1,5 @@
+title: Doit Labs
+description: Learn, Design, Build, Test, Repeat
 plugins:
   - jekyll-relative-links
 relative_links:
